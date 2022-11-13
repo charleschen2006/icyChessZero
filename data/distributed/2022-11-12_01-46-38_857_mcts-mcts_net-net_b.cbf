@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChineseChessRecord Version="1.0">
+ <Head>
+  <Name>noname</Name>
+  <URL />
+  <From>{{from}}</From>
+  <ContestType />
+  <Contest />
+  <Round>第一轮</Round>
+  <Group />
+  <Table />
+  <Date>2022-11-12</Date>
+  <Site>北京</Site>
+  <TimeRule />
+  <Red>net</Red>
+  <RedTeam>net</RedTeam>
+  <RedTime />
+  <RedRating />
+  <Black>net</Black>
+  <BlackTeam>net</BlackTeam>
+  <BlackTime />
+  <BlackRating />
+  <Referee />
+  <Recorder />
+  <Commentator />
+  <CommentatorURL />
+  <Creator />
+  <CreatorURL />
+  <DateCreated />
+  <DateModified>{{datemodified}}</DateModified>
+  <ECCO>D21</ECCO>
+  <RecordType>1</RecordType>
+  <RecordKind />
+  <RecordResult>0</RecordResult>
+  <ResultType />
+  <FEN>rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1</FEN>
+ </Head>
+ <MoveList>
+ <Move value="00-00" />
+  <Move value="59-48" />
+  <Move value="12-11" />
+  <Move value="17-18" />
+  <Move value="11-41" />
+  <Move value="18-12" />
+  <Move value="41-46" />
+  <Move value="77-73" end="1" />
+
+ </MoveList>
+</ChineseChessRecord>

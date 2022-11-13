@@ -1,0 +1,1 @@
+creating data_dir: /home/charles/icyChessZero/config/../data/history_selfplays/2022-11-12_00-56-15

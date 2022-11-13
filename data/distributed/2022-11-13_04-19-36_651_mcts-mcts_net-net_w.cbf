@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChineseChessRecord Version="1.0">
+ <Head>
+  <Name>noname</Name>
+  <URL />
+  <From>{{from}}</From>
+  <ContestType />
+  <Contest />
+  <Round>第一轮</Round>
+  <Group />
+  <Table />
+  <Date>2022-11-13</Date>
+  <Site>北京</Site>
+  <TimeRule />
+  <Red>net</Red>
+  <RedTeam>net</RedTeam>
+  <RedTime />
+  <RedRating />
+  <Black>net</Black>
+  <BlackTeam>net</BlackTeam>
+  <BlackTime />
+  <BlackRating />
+  <Referee />
+  <Recorder />
+  <Commentator />
+  <CommentatorURL />
+  <Creator />
+  <CreatorURL />
+  <DateCreated />
+  <DateModified>{{datemodified}}</DateModified>
+  <ECCO>D21</ECCO>
+  <RecordType>1</RecordType>
+  <RecordKind />
+  <RecordResult>0</RecordResult>
+  <ResultType />
+  <FEN>rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1</FEN>
+ </Head>
+ <MoveList>
+ <Move value="00-00" />
+  <Move value="59-48" />
+  <Move value="50-41" />
+  <Move value="89-88" />
+  <Move value="12-11" />
+  <Move value="17-16" />
+  <Move value="23-24" />
+  <Move value="77-70" />
+  <Move value="41-50" />
+  <Move value="79-67" />
+  <Move value="72-79" />
+  <Move value="67-79" />
+  <Move value="30-41" />
+  <Move value="79-87" />
+  <Move value="11-01" />
+  <Move value="70-74" />
+  <Move value="60-82" />
+  <Move value="86-85" />
+  <Move value="03-04" />
+  <Move value="16-12" />
+  <Move value="01-21" />
+  <Move value="19-07" />
+  <Move value="41-52" />
+  <Move value="74-04" />
+  <Move value="50-41" />
+  <Move value="12-22" />
+  <Move value="41-32" />
+  <Move value="07-28" />
+  <Move value="21-51" />
+  <Move value="09-07" />
+  <Move value="82-60" />
+  <Move value="22-52" />
+  <Move value="80-81" />
+  <Move value="28-09" />
+  <Move value="00-01" />
+  <Move value="48-59" />
+  <Move value="40-41" />
+  <Move value="59-48" />
+  <Move value="20-42" />
+  <Move value="04-02" />
+  <Move value="51-71" />
+  <Move value="52-59" />
+  <Move value="24-25" />
+  <Move value="59-53" />
+  <Move value="71-61" />
+  <Move value="53-83" />
+  <Move value="81-71" />
+  <Move value="02-04" />
+  <Move value="41-40" />
+  <Move value="83-80" />
+  <Move value="40-41" />
+  <Move value="04-64" />
+  <Move value="61-64" />
+  <Move value="80-81" />
+  <Move value="71-77" />
+  <Move value="06-05" />
+  <Move value="77-37" />
+  <Move value="85-84" />
+  <Move value="37-39" />
+  <Move value="48-39" />
+  <Move value="64-65" />
+  <Move value="84-83" />
+  <Move value="65-35" />
+  <Move value="88-18" />
+  <Move value="42-24" />
+  <Move value="18-08" />
+  <Move value="01-02" />
+  <Move value="66-65" />
+  <Move value="35-05" />
+  <Move value="81-61" />
+  <Move value="05-08" />
+  <Move value="07-03" />
+  <Move value="41-51" />
+  <Move value="03-43" />
+  <Move value="08-06" />
+  <Move value="43-41" />
+  <Move value="32-41" />
+  <Move value="87-75" />
+  <Move value="02-72" />
+  <Move value="75-63" />
+  <Move value="51-52" />
+  <Move value="63-71" />
+  <Move value="72-71" />
+  <Move value="29-07" />
+  <Move value="06-04" />
+  <Move value="61-64" />
+  <Move value="04-64" />
+  <Move value="65-64" />
+  <Move value="71-73" />
+  <Move value="64-54" />
+  <Move value="52-42" />
+  <Move value="83-73" />
+  <Move value="25-26" />
+  <Move value="07-25" />
+  <Move value="26-36" />
+  <Move value="39-48" />
+  <Move value="36-46" />
+  <Move value="54-44" />
+  <Move value="42-52" />
+  <Move value="48-57" />
+  <Move value="60-42" />
+  <Move value="44-54" />
+  <Move value="52-51" />
+  <Move value="54-53" />
+  <Move value="41-30" />
+  <Move value="73-83" />
+  <Move value="46-47" />
+  <Move value="53-52" />
+  <Move value="51-50" />
+  <Move value="25-47" />
+  <Move value="10-22" />
+  <Move value="52-51" />
+  <Move value="50-40" />
+  <Move value="47-29" />
+  <Move value="22-41" />
+  <Move value="51-50" />
+  <Move value="40-50" />
+  <Move value="29-07" />
+  <Move value="50-40" />
+  <Move value="69-87" />
+  <Move value="41-20" />
+  <Move value="09-28" />
+  <Move value="40-50" />
+  <Move value="83-82" />
+  <Move value="20-32" />
+  <Move value="82-81" />
+  <Move value="32-44" />
+  <Move value="87-69" />
+  <Move value="44-36" />
+  <Move value="28-36" />
+  <Move value="50-51" />
+  <Move value="07-29" />
+  <Move value="51-50" />
+  <Move value="36-44" />
+  <Move value="24-02" />
+  <Move value="44-65" />
+  <Move value="42-60" />
+  <Move value="65-86" />
+  <Move value="50-51" />
+  <Move value="86-67" />
+  <Move value="30-41" />
+  <Move value="67-59" />
+  <Move value="41-30" />
+  <Move value="81-71" />
+  <Move value="51-52" />
+  <Move value="71-61" />
+  <Move value="30-41" />
+  <Move value="59-67" />
+  <Move value="60-82" />
+  <Move value="67-75" />
+  <Move value="02-24" />
+  <Move value="29-47" />
+  <Move value="82-60" />
+  <Move value="75-63" />
+  <Move value="24-42" />
+  <Move value="57-48" />
+  <Move value="60-82" />
+  <Move value="47-29" />
+  <Move value="41-50" />
+  <Move value="63-71" />
+  <Move value="42-60" />
+  <Move value="48-39" />
+  <Move value="60-42" />
+  <Move value="61-60" />
+  <Move value="52-51" />
+  <Move value="60-50" />
+  <Move value="82-64" />
+  <Move value="71-63" />
+  <Move value="51-50" />
+  <Move value="63-71" />
+  <Move value="50-40" />
+  <Move value="49-48" />
+  <Move value="40-30" />
+  <Move value="71-50" />
+  <Move value="42-24" />
+  <Move value="50-42" />
+  <Move value="30-31" />
+  <Move value="42-63" />
+  <Move value="64-42" />
+  <Move value="63-51" />
+  <Move value="42-64" />
+  <Move value="69-87" />
+  <Move value="24-02" />
+  <Move value="87-65" />
+  <Move value="02-20" />
+  <Move value="65-87" />
+  <Move value="64-82" />
+  <Move value="87-69" />
+  <Move value="82-64" />
+  <Move value="48-49" />
+  <Move value="20-02" />
+  <Move value="49-48" />
+  <Move value="02-20" />
+  <Move value="29-07" />
+  <Move value="64-82" />
+  <Move value="48-49" />
+  <Move value="20-02" />
+  <Move value="07-29" />
+  <Move value="02-20" />
+  <Move value="69-87" />
+  <Move value="82-60" />
+  <Move value="29-07" />
+  <Move value="20-02" />
+  <Move value="49-59" />
+  <Move value="02-24" />
+  <Move value="07-29" />
+  <Move value="24-02" />
+  <Move value="87-65" />
+  <Move value="02-20" />
+  <Move value="29-07" />
+  <Move value="20-02" />
+  <Move value="07-29" />
+  <Move value="02-24" />
+  <Move value="65-87" />
+  <Move value="24-42" />
+  <Move value="87-65" />
+  <Move value="31-41" />
+  <Move value="59-58" />
+  <Move value="41-31" />
+  <Move value="65-47" />
+  <Move value="31-41" />
+  <Move value="39-48" />
+  <Move value="42-24" />
+  <Move value="47-25" />
+  <Move value="24-02" />
+  <Move value="25-07" />
+  <Move value="60-82" />
+  <Move value="07-25" />
+  <Move value="41-40" />
+  <Move value="51-63" />
+  <Move value="40-41" />
+  <Move value="63-51" />
+  <Move value="41-40" />
+  <Move value="51-72" />
+  <Move value="02-20" />
+  <Move value="72-84" />
+  <Move value="40-30" />
+  <Move value="48-39" />
+  <Move value="30-31" />
+  <Move value="25-47" />
+  <Move value="31-30" />
+  <Move value="84-63" />
+  <Move value="20-02" />
+  <Move value="63-82" />
+  <Move value="30-31" />
+  <Move value="82-70" />
+  <Move value="31-41" />
+  <Move value="29-07" />
+  <Move value="02-20" />
+  <Move value="70-62" />
+  <Move value="41-40" />
+  <Move value="47-29" />
+  <Move value="20-42" />
+  <Move value="62-83" />
+  <Move value="40-30" />
+  <Move value="83-71" />
+  <Move value="30-40" />
+  <Move value="71-63" />
+  <Move value="40-30" />
+  <Move value="58-48" />
+  <Move value="30-40" />
+  <Move value="07-25" />
+  <Move value="40-50" />
+  <Move value="63-55" />
+  <Move value="42-60" />
+  <Move value="25-07" />
+  <Move value="60-82" />
+  <Move value="07-25" />
+  <Move value="82-60" />
+  <Move value="55-34" />
+  <Move value="60-82" />
+  <Move value="48-49" />
+  <Move value="50-51" />
+  <Move value="34-53" />
+  <Move value="51-52" />
+  <Move value="53-72" />
+  <Move value="82-64" />
+  <Move value="25-47" />
+  <Move value="64-82" />
+  <Move value="47-25" />
+  <Move value="82-60" />
+  <Move value="72-84" />
+  <Move value="60-42" />
+  <Move value="29-47" />
+  <Move value="52-51" />
+  <Move value="84-65" />
+  <Move value="42-64" />
+  <Move value="47-69" />
+  <Move value="51-52" />
+  <Move value="65-84" />
+  <Move value="64-82" />
+  <Move value="84-72" />
+  <Move value="82-64" />
+  <Move value="49-48" />
+  <Move value="64-42" />
+  <Move value="48-49" />
+  <Move value="42-60" />
+  <Move value="72-64" />
+  <Move value="52-51" />
+  <Move value="64-56" />
+  <Move value="51-50" />
+  <Move value="56-37" />
+  <Move value="60-42" />
+  <Move value="37-45" />
+  <Move value="50-51" />
+  <Move value="45-64" />
+  <Move value="42-64" />
+  <Move value="25-47" />
+  <Move value="64-42" />
+  <Move value="69-87" />
+  <Move value="42-24" />
+  <Move value="47-29" />
+  <Move value="51-41" end="1" />
+
+ </MoveList>
+</ChineseChessRecord>

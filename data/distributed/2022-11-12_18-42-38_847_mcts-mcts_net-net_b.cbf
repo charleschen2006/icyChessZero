@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChineseChessRecord Version="1.0">
+ <Head>
+  <Name>noname</Name>
+  <URL />
+  <From>{{from}}</From>
+  <ContestType />
+  <Contest />
+  <Round>第一轮</Round>
+  <Group />
+  <Table />
+  <Date>2022-11-12</Date>
+  <Site>北京</Site>
+  <TimeRule />
+  <Red>net</Red>
+  <RedTeam>net</RedTeam>
+  <RedTime />
+  <RedRating />
+  <Black>net</Black>
+  <BlackTeam>net</BlackTeam>
+  <BlackTime />
+  <BlackRating />
+  <Referee />
+  <Recorder />
+  <Commentator />
+  <CommentatorURL />
+  <Creator />
+  <CreatorURL />
+  <DateCreated />
+  <DateModified>{{datemodified}}</DateModified>
+  <ECCO>D21</ECCO>
+  <RecordType>1</RecordType>
+  <RecordKind />
+  <RecordResult>0</RecordResult>
+  <ResultType />
+  <FEN>rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1</FEN>
+ </Head>
+ <MoveList>
+ <Move value="00-00" />
+  <Move value="17-14" />
+  <Move value="12-42" />
+  <Move value="06-05" />
+  <Move value="42-02" />
+  <Move value="14-18" />
+  <Move value="70-82" />
+  <Move value="18-11" />
+  <Move value="30-41" />
+  <Move value="11-12" />
+  <Move value="72-76" />
+  <Move value="09-08" />
+  <Move value="23-24" />
+  <Move value="08-38" />
+  <Move value="43-44" />
+  <Move value="26-25" />
+  <Move value="76-72" />
+  <Move value="38-34" />
+  <Move value="00-01" />
+  <Move value="34-32" />
+  <Move value="24-25" />
+  <Move value="79-87" />
+  <Move value="02-05" />
+  <Move value="39-48" />
+  <Move value="01-11" />
+  <Move value="89-88" />
+  <Move value="05-09" />
+  <Move value="88-78" />
+  <Move value="09-05" />
+  <Move value="32-52" />
+  <Move value="11-21" />
+  <Move value="77-74" />
+  <Move value="03-04" />
+  <Move value="52-72" />
+  <Move value="05-09" />
+  <Move value="48-39" />
+  <Move value="09-29" />
+  <Move value="49-48" />
+  <Move value="21-22" />
+  <Move value="12-16" />
+  <Move value="80-81" />
+  <Move value="72-71" />
+  <Move value="29-26" />
+  <Move value="71-41" />
+  <Move value="50-41" />
+  <Move value="78-75" />
+  <Move value="22-72" />
+  <Move value="75-55" />
+  <Move value="72-22" />
+  <Move value="55-58" />
+  <Move value="22-23" />
+  <Move value="58-57" />
+  <Move value="26-36" />
+  <Move value="74-04" />
+  <Move value="36-26" />
+  <Move value="57-77" />
+  <Move value="23-22" />
+  <Move value="04-00" />
+  <Move value="41-32" />
+  <Move value="77-57" />
+  <Move value="22-23" />
+  <Move value="00-04" />
+  <Move value="44-45" />
+  <Move value="19-07" />
+  <Move value="20-42" />
+  <Move value="57-50" />
+  <Move value="40-50" />
+  <Move value="07-28" />
+  <Move value="26-66" />
+  <Move value="04-34" />
+  <Move value="42-20" />
+  <Move value="16-06" />
+  <Move value="81-01" />
+  <Move value="06-16" />
+  <Move value="66-64" />
+  <Move value="48-58" end="1" />
+
+ </MoveList>
+</ChineseChessRecord>

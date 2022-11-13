@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/charles/icyChessZero/config/../data/prepare_weight/2022-11-11_23-32-58"
+all_model_checkpoint_paths: "/home/charles/icyChessZero/config/../data/prepare_weight/2022-11-11_23-32-58"

@@ -1,0 +1,29 @@
+-----------------------------------
+python env: python
+gpu core: 0
+threads number:20
+server :http://10.109.247.219:10088
+-----------------------------------
+Is the setting ok? [y/N]
+executing...
+2022年 11月 12日 星期六 00:57:34 CST
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
+python -g=0
