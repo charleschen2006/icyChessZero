@@ -79,10 +79,10 @@ cd script
 比如:
 
 ```
-sh multithread_start.sh -t 4 -g 0 -p python3.8 
+sh multithread_start.sh -t 14 -g 0 -p python3.8 
 ```
 
-意味着在0号GPU上用python3环境跑4个进程（与上面windows版本对应)
+意味着在0号GPU上用python3环境跑14个进程（与上面windows版本对应)
 
 ## 总之
 总之，如果想要加入集群，请先联系我，因为如果直接加入集群，可能会有我这边代码更新了然后部分slave没更新的情况，这样会造成不一致，后果会不可知。
